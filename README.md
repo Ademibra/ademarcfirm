@@ -1,1 +1,2 @@
-# ademarchitechuralfirm.github.io
+# ademarchitechuralfirm.github
+This website is  for an architectural firm, it constitutes of different pages. home page, about us, our services and contact. On each page there are numerous functions. For instance, our services page has pictures which demonstrates some of our firms works. On contacts page different addresses have been provided to help users or customers get in touch with us easily with their most convenient method.  
